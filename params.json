@@ -1,6 +1,6 @@
 {
   "name": "Connect Four",
   "tagline": "Java game",
-  "body": "\r\n## Usage\r\n\r\nThis game can be played in console or GUI.\r\nChoose a column to play by typing the corresponding number.\r\n\r\n## Screenshot\r\n\r\n\r\n## History\r\n\r\nFirst Java Game\r\n\r\n## Credits\r\n\r\n[Maarti](http://maarti.net)\r\n\r\n## License\r\n\r\nApache License 2.0\r\n",
+  "body": "\r\n## Usage\r\n\r\nThis game can be played in console or GUI.\r\nChoose a column to play by typing the corresponding number.\r\n\r\n## Screenshot\r\n\r\n![screen](https://raw.githubusercontent.com/Maarti/ConnectFour/gh-pages/images/connectFour_screenshot.png)\r\n\r\n## History\r\n\r\nFirst Java Game\r\n\r\n## Credits\r\n\r\n[Maarti](http://maarti.net)\r\n\r\n## License\r\n\r\nApache License 2.0\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
