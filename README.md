@@ -3,11 +3,11 @@ Connect four java game
 
 ## Installation
 
-TODO: Describe the installation process
+Download the sources and launch the `Jeu.main()` method.
 
 ## Usage
 
-TODO: Write usage instructions
+Choose a column to play by typing the corresponding number. (GUI or Console)
 
 ## Contributing
 
@@ -19,12 +19,12 @@ TODO: Write usage instructions
 
 ## History
 
-TODO: Write history
+First Java Game
 
 ## Credits
 
-TODO: Write credits
+[Maarti](http://maarti.net)
 
 ## License
 
-TODO: Write license
+MIT Licence
