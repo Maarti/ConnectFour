@@ -27,4 +27,4 @@ First Java Game
 
 ## License
 
-MIT Licence
+Apache License 2.0
